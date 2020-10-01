@@ -1,1 +1,2 @@
 # Generalized-Complex-GP-using-Multivariate-Gaussian-Approach
+Gaussian processes have enjoyed much popularity in the past few decades owing to their unique formulation. We extended their applicability in complex data by proposing a multivariate Gaussian approach to solving GPs for complex variables. Such an approach accounts for the correlation between the real and imaginary part of the data. We showed that such a formulation can be applied readily to complex data learning problems  showed the improvements achieved over previously used methods. 
